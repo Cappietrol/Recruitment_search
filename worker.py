@@ -66,7 +66,6 @@ if __name__ == '__main__':
         # botSearch.setup_grab(connect_timeout=100, timeout=120, proxyw_type='http', log_dir=logPath,
         #                      user_agent='Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36')
         #botSearch.logger = logger
-#        botView.logger = logger
 
             ## Раскоментировать для просмотра резюме#
             ###############################
